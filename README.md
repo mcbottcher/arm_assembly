@@ -18,5 +18,4 @@ To run this yourself with the FRDM-KL25Z, you can go to the mbed.org online comp
 
 Here is a quick video of what it might look like:
 
-https://user-images.githubusercontent.com/59874862/146616039-81301e5d-044c-46de-a4b7-7d1731d5b8ac.mp4
-
+[video](https://youtu.be/sUvrCO3vnUg)
